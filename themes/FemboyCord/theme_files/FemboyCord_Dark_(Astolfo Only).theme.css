@@ -294,10 +294,11 @@
     padding-top: 10px !important;
 }
 
-.pill-L_alMQ {
-    position: fixed;
-    bottom: 12px;
-    left: 0;
+.pill-L_aLMQ {
+    position: fixed !important;
+    bottom: 12px !important;
+    left: 0 !important;
+    top: unset !important;
 }
 
 .form-3gdLxP {
