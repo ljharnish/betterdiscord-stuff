@@ -1,6 +1,6 @@
 /**
  * @name FemboyCord (Dark Mode) (Astolfo Only)
- * @version 1.0.0
+ * @version 1.1.0
  * @description Literally the best theme for femboys who LOVE Astolfo ❤️
  * @author ljharnish
  * 
@@ -273,6 +273,36 @@
     backdrop-filter: brightness(0.5);
     margin-left: 0;
     border-left: 3px solid var(--darker-accent-color);
+}
+
+.counter-uAzbKp {
+    display: none;
+}
+
+.container-YkUktl {
+    height: 68px !important;
+    margin-bottom: 0px !important;
+}
+
+.tutorialContainer-1pL9QS .listItem-3SmSlK {
+    position: fixed !important;
+    bottom: 0 !important;
+    z-index: 100 !important;
+    background: var(--darkest-accent-color) !important;
+    padding-bottom: 11px !important;
+    margin-bottom: 0px !important;
+    padding-top: 10px !important;
+}
+
+.pill-L_alMQ {
+    position: fixed;
+    bottom: 12px;
+    left: 0;
+}
+
+.form-3gdLxP {
+    margin-top: -1px;
+    background: var(--message-box-color);
 }
 
 .homeIcon-r0w4ny {

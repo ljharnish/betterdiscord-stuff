@@ -1,6 +1,6 @@
 /**
  * @name FemboyCord (Dark Mode)
- * @version 1.0.0
+ * @version 1.1.0
  * @description Literally the best theme for femboys
  * @author ljharnish
  * 
@@ -246,6 +246,7 @@
     color: white;
 }
 
+
 .titleBar-1it3bQ {
     padding-top: 3px;
     box-sizing: border-box;
@@ -254,6 +255,36 @@
 
 .wordmarkWindows-2dq6rw, .winButton-3UMjdg {
     padding-top: 0;
+}
+
+.counter-uAzbKp {
+    display: none;
+}
+
+.container-YkUktl {
+    height: 68px !important;
+    margin-bottom: 0px !important;
+}
+
+.tutorialContainer-1pL9QS .listItem-3SmSlK {
+    position: fixed !important;
+    bottom: 0 !important;
+    z-index: 100 !important;
+    background: var(--darkest-accent-color) !important;
+    padding-bottom: 11px !important;
+    margin-bottom: 0px !important;
+    padding-top: 10px !important;
+}
+
+.pill-L_alMQ {
+    position: fixed;
+    bottom: 12px;
+    left: 0;
+}
+
+.form-3gdLxP {
+    margin-top: -1px;
+    background: var(--message-box-color);
 }
 
 .themed-qqoYp3.item-2GWPIy {
@@ -336,8 +367,10 @@
     background: transparent !important;
 }
 
-.form-3gdLxP {
-    margin-top: -1px
+.channelTextArea-1FufC0.channelTextArea-1VQBuV {
+    background: unset !important;
+    margin-bottom: 13px;
+    margin-top: 11px;
 }
 
 .chatContent-3KubbW > .form-3gdLxP::before {
